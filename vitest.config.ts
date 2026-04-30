@@ -16,7 +16,7 @@ export default defineConfig({
       },
       clean: true,
       include: ['src/**/*.ts'],
-      exclude: ['dist/*.*', 'check/*js'],
+      exclude: ['dist/*.*', 'check/*js', 'node_modules/**'],
     },
   },
 });

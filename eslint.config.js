@@ -10,10 +10,10 @@ export default [
   prettier,
   {
     plugins: {
-      prettier: pluginPrettier, // ✅ load the plugin here
+      prettier: pluginPrettier,
     },
     rules: {
-      'prettier/prettier': 'error', // ✅ now works
+      'prettier/prettier': 'error',
     },
   },
 ];

@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/npm/l/@fsad-labs/sortzilla.svg)](LICENSE)
 
 <DESCRIPTION>  
-A TypeScript/JavaScript library that provides classic **sorting algorithms** with a clean, extensible, and object-oriented API.
+A TypeScript/JavaScript library that provides classic **sorting algorithms** with a clean, extensible, and function-oriented API.
 
 ---
 
@@ -32,8 +32,8 @@ yarn add @fsad-labs/sortzilla
 
 ## Usage
 
-Each algorithm is implemented as a **class**.  
-You can create an instance and call the `sort` method.
+Each algorithm is implemented as a **function**.  
+You can use and call them directly.
 
 ### Example with Numbers
 

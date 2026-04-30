@@ -1,10 +1,9 @@
 {
-  "name": "@fsad-labs/sortzilla",
-  "author": "@drixev",
+  "name": "@drixev-tools/sortzilla",
+  "author": "drixev",
   "version": "0.6.0",
   "description": "Sorts Algorithms in your hand",
   "readme": "README.npm.md",
-  "funding": "https://buymeacoffee.com/drixev",
   "scripts": {
     "build": "tsup --clean",
     "dev": "tsup ./index.ts --watch",
@@ -17,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fsad-labs/sortzilla.git"
+    "url": "https://github.com/drixev-tools/sortzilla"
   },
   "keywords": [
     "sort",
